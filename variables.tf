@@ -20,3 +20,8 @@ variable "s3_acl" {
   type = string
   default = "public"
 }
+
+variable "s3_dummy" {
+  type = string
+  default = "public"
+}
